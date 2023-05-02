@@ -28,7 +28,7 @@ This is a solution to the [Results-summary-component challenge on Frontend Mento
 ### Links
 
 - Solution URL: (https://github.com/DMKALALA/Results-summary-component)
-- Live Site URL: (https://dmkalala.github.io/Front_end_mentor_html_css/)
+- Live Site URL: (https://dmkalala.github.io/Results-summary-component/)
 
 ## My process
 
